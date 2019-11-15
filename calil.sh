@@ -21,7 +21,7 @@ env/bin/genpac \
 	-o gfwlist.pac
 sed -e '5d' -e '3d' -i gfwlist.pac
 deactivate
-
+echo "$(LANG=C date) 最近更新时间" > /root/gfwlist2pac/README.md
 git add .
 git commit -m "[$(LANG=C date)]auto update"
 git push origin master
