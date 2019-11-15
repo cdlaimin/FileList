@@ -23,5 +23,5 @@ sed -e '5d' -e '3d' -i gfwlist.pac
 deactivate
 echo "最后一次更新时间 $(LANG=C date +"%Y-%m-%d %H:%M:%S")" > /root/gfwlist2pac/README.md
 git add .
-git commit -m "[$(LANG=C date)]auto update"
+git commit -m "[$(LANG=C date +"%Y-%m-%d %H:%M:%S")]auto update"
 git push origin master
