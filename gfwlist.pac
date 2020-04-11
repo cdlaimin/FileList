@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "df.gov.tw", 
             "erv-nsa.gov.tw", 
-            "gravatar.com", 
             "grb.gov.tw", 
             "haosou.com", 
             "haygo.com", 
