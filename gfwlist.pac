@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "matsu-news.gov.tw", 
             "matsucc.gov.tw", 
-            "moe.gov.tw", 
             "nankan.gov.tw", 
             "ncree.gov.tw", 
             "necoast-nsa.gov.tw", 
