@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "qq.com", 
             "sina.cn", 
-            "sina.com.cn", 
             "siraya-nsa.gov.tw", 
             "sl-reverse.com", 
             "so.com", 
