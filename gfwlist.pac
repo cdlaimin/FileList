@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "sunmoonlake.gov.tw", 
             "taitung-house.gov.tw", 
-            "taoyuan.gov.tw", 
             "tphcc.gov.tw", 
             "trimt-nsa.gov.tw", 
             "uluai.com.cn", 
