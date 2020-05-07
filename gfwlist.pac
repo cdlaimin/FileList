@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "taitung-house.gov.tw", 
             "tphcc.gov.tw", 
-            "trimt-nsa.gov.tw", 
             "uluai.com.cn", 
             "vghks.gov.tw", 
             "vghtc.gov.tw", 
