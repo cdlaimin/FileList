@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "weibo.com", 
             "yatsen.gov.tw", 
-            "yda.gov.tw", 
             "youdao.com", 
             "zhongsou.com"
         ], 
