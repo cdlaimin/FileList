@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2020-07-10 15:53:57 GMT+8
+ * GFWList Last-Modified: 2020-07-14 13:05:48GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -5242,6 +5242,7 @@ var rules = [
             "woxinghuiguo.com", 
             "woyaolian.org", 
             "wozy.in", 
+            "wp.com", 
             "wpoforum.com", 
             "wqyd.org", 
             "wrchina.org", 
