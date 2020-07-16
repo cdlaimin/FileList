@@ -8,7 +8,8 @@ for i in gfwlist-by-loukky genpac
 do
 	(cd $i;git pull origin master)
 done
-
+rm -rf whitelist.txt
+cp domainlist/whitelist.txt whitelist.txt
 rm -rf env
 virtualenv env
 source env/bin/activate
