@@ -4,3 +4,6 @@
 [submodule "genpac"]
 	path = genpac
 	url = https://github.com/JinnLynn/genpac
+[submodule "/root/gfwlist2pac/domainlist"]
+	path = /root/gfwlist2pac/domainlist
+	url = https://github.com/cdlaimin/ChinaDomainList.git
