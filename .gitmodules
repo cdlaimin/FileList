@@ -7,6 +7,3 @@
 [submodule "domainlist"]
 	path = domainlist
 	url = https://github.com/cdlaimin/ChinaDomainList
-[submodule "cn-blocked-domain"]
-	path = cn-blocked-domain
-	url = https://github.com/cdlaimin/cn-blocked-domain
