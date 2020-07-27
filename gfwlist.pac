@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2020-07-19 16:40:29 GMT+8
+ * GFWList Last-Modified: 2020-07-26 15:31:53 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -2367,6 +2367,7 @@ var rules = [
             "hotpot.hk", 
             "hotshame.com", 
             "hotspotshield.com", 
+            "hottg.com", 
             "hotvpn.com", 
             "hougaige.com", 
             "howtoforge.com", 
@@ -5173,6 +5174,7 @@ var rules = [
             "widevine.com", 
             "wikaba.com", 
             "wikia.com", 
+            "wikia.org", 
             "wikibooks.org", 
             "wikidata.org", 
             "wikileaks-forum.com", 
