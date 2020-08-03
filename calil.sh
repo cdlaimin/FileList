@@ -4,7 +4,7 @@ git reset --hard
 git pull
 
 git submodule update --init
-for i in gfwlist-by-loukky genpac
+for i in gfwlist-by-loukky genpac domainlist
 do
 	(cd $i;git pull origin master)
 done
