@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2020-08-07 21:46:06 GMT+8
+ * GFWList Last-Modified: 2020-08-09 13:43:21 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -4971,7 +4971,6 @@ var rules = [
             "virginia.edu", 
             "virtualrealporn.com", 
             "visibletweets.com", 
-            "visiontimes.com", 
             "vital247.org", 
             "viu.com", 
             "vivahentai4u.net", 
