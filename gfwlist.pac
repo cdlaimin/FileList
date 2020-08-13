@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2020-08-11 13:33:13 GMT+8
+ * GFWList Last-Modified: 2020-08-13 00:13:19 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -3906,6 +3906,7 @@ var rules = [
             "robustnessiskey.com", 
             "rocket-inc.net", 
             "rocketbbs.com", 
+            "rocketcdn.me", 
             "rocksdb.org", 
             "rojo.com", 
             "rolia.net", 
