@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2020-08-13 00:13:19 GMT+8
+ * GFWList Last-Modified: 2020-08-16 16:30:02 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -4460,6 +4460,7 @@ var rules = [
             "theinitium.com", 
             "themoviedb.org", 
             "thenewslens.com", 
+            "thepiratebay.ee", 
             "thepiratebay.org", 
             "theporndude.com", 
             "theportalwiki.com", 
