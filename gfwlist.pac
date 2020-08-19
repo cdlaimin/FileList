@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2020-08-17 21:45:31 GMT+8
+ * GFWList Last-Modified: 2020-08-18 20:33:17 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -5377,6 +5377,7 @@ var rules = [
             "you-get.org", 
             "youdontcare.com", 
             "youjizz.com", 
+            "youlucky.com", 
             "youmaker.com", 
             "youngpornvideos.com", 
             "youngspiration.hk", 
