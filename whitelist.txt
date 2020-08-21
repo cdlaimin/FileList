@@ -210,7 +210,6 @@ qq.com
 21caas.com
 21cn.com
 21cnimg.com
-21cp.net
 21food.com
 21ic.com
 21js.com
@@ -582,7 +581,6 @@ qq.com
 91jf.com
 91jmw.com
 91ld.com
-91mjw.com
 91px.com
 91tea.net
 91town.com
@@ -4096,6 +4094,7 @@ wuxirc.com
 www.baidu.com
 www.bilibili.com
 |https://www.douyu.com
+www.fashion-tele.com
 www.haofangame.com
 |https://www.iqiyi.com
 www.itfanr.cc

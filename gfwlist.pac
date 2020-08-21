@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2020-08-18 20:33:17 GMT+8
+ * GFWList Last-Modified: 2020-08-20 13:59:37 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -1000,6 +1000,7 @@ var rules = [
             "commentshk.com", 
             "communistcrimes.org", 
             "communitychoicecu.com", 
+            "comparitech.com", 
             "compileheart.com", 
             "compress.to", 
             "compython.net", 
