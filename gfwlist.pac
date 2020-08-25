@@ -1,6 +1,8 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
+ * GFWList Last-Modified: 2020-08-24 21:44:45 GMT+8
  */
+
 var proxy = 'SOCKS5 127.0.0.1:1080';
 var rules = [
     [
@@ -96,6 +98,7 @@ var rules = [
             "zhongsou.com"
         ], 
         [
+            "//google-analytics.com", 
             "0rz.tw", 
             "1-apple.com.tw", 
             "10.tt", 
@@ -1082,6 +1085,7 @@ var rules = [
             "dagelijksestandaard.nl", 
             "daidostup.ru", 
             "dailidaili.com", 
+            "dailymail.co.uk", 
             "dailymotion.com", 
             "dailyview.tw", 
             "daiphapinfo.net", 
