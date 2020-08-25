@@ -22,6 +22,8 @@ env/bin/genpac \
 	-o gfwlist.pac
 sed -e '5d' -e '3d' -i gfwlist.pac
 deactivate
+wget https://github.com/cdlaimin/v2ray-rules-dat/raw/release/geoip.dat
+wget https://github.com/cdlaimin/v2ray-rules-dat/raw/release/geosite.dat
 echo -e "最后一次更新时间 $(LANG=C date +"%Y-%m-%d %H:%M:%S")\nhttps://raw.githubusercontent.com/cdlaimin/gfwlist2pac/master/gfwlist.pac
 " > /root/gfwlist2pac/README.md
 git add .
