@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2020-08-24 21:44:45 GMT+8
+ * GFWList Last-Modified: 2020-08-26 15:47:31 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -4296,6 +4296,7 @@ var rules = [
             "studentsforafreetibet.org", 
             "stumbleupon.com", 
             "stupidvideos.com", 
+            "stweetly.com", 
             "successfn.com", 
             "sueddeutsche.de", 
             "sugarsync.com", 
