@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "chinaso.com", 
             "chukuang.gov.tw", 
-            "cwb.gov.tw", 
             "cycab.gov.tw", 
             "dbnsa.gov.tw", 
             "df.gov.tw", 
