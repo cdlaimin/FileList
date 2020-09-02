@@ -1,6 +1,26 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
+ * GFWList Last-Modified: 2020-08-31 17:29:59 GMT+8
+ */
+
+var proxy = 'SOCKS5 127.0.0.1:1080';
+var rules = [
+    [
+        [], 
+        []
+    ], 
+    [
+        [
+            "aftygh.gov.tw", 
+            "aide.gov.tw", 
+            "aliyun.com", 
+            "arte.gov.tw", 
+            "baidu.com", 
+            "baidu.jp", 
+            "chinaso.com", 
+            "chinaz.com", 
             "chukuang.gov.tw", 
+            "cwb.gov.tw", 
             "cycab.gov.tw", 
             "dbnsa.gov.tw", 
             "df.gov.tw", 
