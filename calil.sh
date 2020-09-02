@@ -23,7 +23,8 @@ env/bin/genpac \
 sed -e '5d' -e '3d' -i gfwlist.pac
 deactivate
 cd v2ray-rules-dat
-rm -f geoip.dat geosite.dat geoip.dat.1 geosite.dat.1
+#rm -f geoip.dat geosite.dat geoip.dat.1 geosite.dat.1
+rm -rf geo*
 git add -all
 wget https://cdn.jsdelivr.net/gh/cdlaimin/v2ray-rules-dat@release/geoip.dat
 wget https://cdn.jsdelivr.net/gh/cdlaimin/v2ray-rules-dat@release/geosite.dat
