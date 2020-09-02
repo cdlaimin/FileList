@@ -31,6 +31,6 @@ echo -e "最后一次更新时间 $(LANG=C date +"%Y-%m-%d %H:%M:%S")\n 两个�
 cd ..
 echo -e "最后一次更新时间 $(LANG=C date +"%Y-%m-%d %H:%M:%S")\nhttps://raw.githubusercontent.com/cdlaimin/gfwlist2pac/master/gfwlist.pac
 " > /root/gfwlist2pac/README.md
-git add -all
+git add -A
 git commit -m "[$(LANG=C date +"%Y-%m-%d %H:%M:%S")]auto update"
 git push origin master
