@@ -29,9 +29,8 @@ wget https://cdn.jsdelivr.net/gh/cdlaimin/v2ray-rules-dat@release/geoip.dat
 wget https://cdn.jsdelivr.net/gh/cdlaimin/v2ray-rules-dat@release/geosite.dat
 echo -e "最后一次更新时间 $(LANG=C date +"%Y-%m-%d %H:%M:%S")\n 两个文件用于V2ray的翻墙规则" > /root/gfwlist2pac/v2ray-rules-dat/README.md
 cd ..
-git add -all
 echo -e "最后一次更新时间 $(LANG=C date +"%Y-%m-%d %H:%M:%S")\nhttps://raw.githubusercontent.com/cdlaimin/gfwlist2pac/master/gfwlist.pac
 " > /root/gfwlist2pac/README.md
-git add .
+git add -all
 git commit -m "[$(LANG=C date +"%Y-%m-%d %H:%M:%S")]auto update"
 git push origin master
