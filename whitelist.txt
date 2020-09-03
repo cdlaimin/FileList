@@ -514,7 +514,6 @@ qq.com
 71360.com
 715083.com
 7192.com
-71zs.com
 72177.com
 7273.com
 72g.com
@@ -660,7 +659,6 @@ aifang.com
 aifangke.com
 aifengjie.com
 aigou.com
-aihami.com
 aiju.com
 aikucun.com
 ailaba.org
@@ -2630,7 +2628,6 @@ lanzous.com
 laohu.com
 laoke.com
 laoren.com
-laravel-china.org
 laser-chn.com
 lashou.com
 lavago.com
