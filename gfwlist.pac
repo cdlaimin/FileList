@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2020-08-31 17:29:59 GMT+8
+ * GFWList Last-Modified: 2020-09-05 00:28:05 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -1833,6 +1833,7 @@ var rules = [
             "gitbooks.io", 
             "github.com", 
             "github.io", 
+            "githubassets.com", 
             "githubusercontent.com", 
             "gizlen.net", 
             "gjczz.com", 
