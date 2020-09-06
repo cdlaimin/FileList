@@ -1,3 +1,3 @@
-最后一次更新时间 2020-09-06 04:30:28
+最后一次更新时间 2020-09-07 04:30:23
 https://raw.githubusercontent.com/cdlaimin/gfwlist2pac/master/gfwlist.pac
 
