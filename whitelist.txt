@@ -2290,7 +2290,6 @@ izuiyou.com
 j.cn
 j1.com
 j2014.com
-ja001.com
 jaedu.com
 jandan.net
 jarhu.com
@@ -3848,7 +3847,6 @@ tz911.com
 tzcz.com
 tzfdc.com
 tzhledu.net
-tzrc.com
 u009.com
 u148.net
 u17.com
@@ -4509,7 +4507,6 @@ zgzcw.com
 zgznh.com
 zh28.com
 zh51home.com
-zh853.com
 zhangjk.com
 zhangqiaokeyan.com
 zhangyue.com
