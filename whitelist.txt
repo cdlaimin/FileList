@@ -395,7 +395,6 @@ qq.com
 51wyrc.com
 51yala.com
 51yey.com
-51you.com
 51youdian.com
 51yougo.com
 51ysrc.com
@@ -470,7 +469,6 @@ qq.com
 5fen.com
 5i5j.com
 5i9u.com
-5ikfc.com
 5its.com
 5sw.com
 5u588.com
@@ -647,7 +645,6 @@ ahjgxy.com
 ahjtxx.com
 ahlib.com
 ahljnews.com
-ahmmhg.com
 ahqmdq.com
 aibo123.com
 aichao521.com
@@ -1296,7 +1293,6 @@ cqxh120.com
 cqxiehe.com
 cqxszx.net
 cqyc.net
-cqzls.com
 cr-nielsen.com
 cr18g.com
 cric.com
@@ -1806,7 +1802,6 @@ gongyishibao.com
 goodacc.net
 googleadservices.com
 googletagmanager.com
-gooniu.com
 goootech.com
 gotoip2.com
 gotokeep.com
@@ -2275,7 +2270,6 @@ ixiaolu.com
 ixigua.com
 ixiupet.com
 iyaxin.com
-iyaya.com
 iyizhai.com
 iyouguoo.com
 iyunying.org
@@ -2353,7 +2347,6 @@ jianso.com
 jiaoshizhaopin.net
 jiaoyanyun.com
 jiaoyimao.com
-jiaozhou.net
 jiasule.com
 jiayuan.com
 jice.io
@@ -3103,13 +3096,11 @@ pharmjx.com
 phoenixtv.com
 phome.net
 phonegap100.com
-php100.com
 phpcomposer.com
 phpwind.com
 phpwind.net
 piao.com
 piaodown.com
-piaoliang.com
 pinduoduo.com
 pinganfang.com
 pingnan.net
@@ -4600,7 +4591,6 @@ zjlottery.com
 zjrc.com
 zjscedu.org
 zjwu.net
-zjxf119.com
 zjxxt.com
 zjypw.com
 zk71.com
