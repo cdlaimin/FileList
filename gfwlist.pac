@@ -1,6 +1,8 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
+ * GFWList Last-Modified: 2020-09-17 16:11:07 GMT+8
  */
+
 var proxy = 'SOCKS5 127.0.0.1:1080';
 var rules = [
     [
@@ -1610,6 +1612,7 @@ var rules = [
             "fofg-europe.net", 
             "fofg.org", 
             "fofldfradio.org", 
+            "fontawesome.com", 
             "foolsmountain.com", 
             "fooooo.com", 
             "footwiball.com", 
@@ -2688,6 +2691,7 @@ var rules = [
             "joyourself.com", 
             "jp.net", 
             "jpopforum.net", 
+            "jquery.com", 
             "jqueryui.com", 
             "jshell.net", 
             "jtvnw.net", 
