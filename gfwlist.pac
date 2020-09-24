@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2020-09-17 16:11:07 GMT+8
+ * GFWList Last-Modified: 2020-09-23 20:46:28 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -5490,6 +5490,7 @@ var rules = [
             "zynaima.com", 
             "zynamics.com", 
             "zyns.com", 
+            "zyxel.com", 
             "zyzc9.com", 
             "zzcartoon.com", 
             "zzcloud.me", 
