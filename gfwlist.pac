@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2020-10-01 11:22:01 GMT+8
+ * GFWList Last-Modified: 2020-10-09 21:15:52 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -147,6 +147,7 @@ var rules = [
             "21sextury.com", 
             "228.net.tw", 
             "233abc.com", 
+            "233v2.com", 
             "24hrs.ca", 
             "24smile.org", 
             "25u.com", 
@@ -3051,6 +3052,7 @@ var rules = [
             "meripet.biz", 
             "meripet.com", 
             "merit-times.com.tw", 
+            "merlinblog.xyz", 
             "meshrep.com", 
             "mesotw.com", 
             "messenger.com", 
