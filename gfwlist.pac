@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2020-10-09 21:15:52 GMT+8
+ * GFWList Last-Modified: 2020-10-13 20:11:52 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -3387,6 +3387,8 @@ var rules = [
             "ntdtv.ca", 
             "ntdtv.co.kr", 
             "ntdtv.com", 
+            "ntdtv.com.tw", 
+            "ntdtv.jp", 
             "ntdtv.org", 
             "ntdtv.ru", 
             "ntdtvla.com", 
@@ -3727,6 +3729,7 @@ var rules = [
             "privatetunnel.com", 
             "privatevpn.com", 
             "procopytips.com", 
+            "prosciana.com", 
             "prosiben.de", 
             "protonvpn.com", 
             "provideocoalition.com", 
