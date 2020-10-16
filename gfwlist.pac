@@ -1,6 +1,8 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
+ * GFWList Last-Modified: 2020-10-15 22:04:49 GMT+8
  */
+
 var proxy = 'SOCKS5 127.0.0.1:1080';
 var rules = [
     [
@@ -3153,6 +3155,7 @@ var rules = [
             "morningsun.org", 
             "moroneta.com", 
             "mos.ru", 
+            "mosucloud.site", 
             "motherless.com", 
             "motiyun.com", 
             "motor4ik.ru", 
