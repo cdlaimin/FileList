@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2020-10-15 22:04:49 GMT+8
+ * GFWList Last-Modified: 2020-10-21 21:42:20 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -1160,6 +1160,8 @@ var rules = [
             "dessci.com", 
             "destroy-china.jp", 
             "deutsche-welle.de", 
+            "deviantart.com", 
+            "deviantart.net", 
             "devio.us", 
             "devpn.com", 
             "dfas.mil", 
@@ -2837,6 +2839,7 @@ var rules = [
             "latibet.org", 
             "law.com", 
             "lbank.info", 
+            "lbyczf.com", 
             "le-vpn.com", 
             "leafyvpn.net", 
             "lecloud.net", 
