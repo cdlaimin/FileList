@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2020-10-21 21:42:20 GMT+8
+ * GFWList Last-Modified: 2020-10-28 20:41:11 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -3279,6 +3279,7 @@ var rules = [
             "naver.jp", 
             "navy.mil", 
             "naweeklytimes.com", 
+            "nbcnews.com", 
             "nbtvpn.com", 
             "nchrd.org", 
             "ncn.org", 
@@ -3952,6 +3953,7 @@ var rules = [
             "rxhj.net", 
             "s-cute.com", 
             "s-dragon.org", 
+            "s-nbcnews.com", 
             "s1heng.com", 
             "s1s1s1.com", 
             "s4miniarchive.com", 
@@ -4140,6 +4142,7 @@ var rules = [
             "sjrt.org", 
             "sjum.cn", 
             "sketchappsources.com", 
+            "skimresources.com", 
             "skimtube.com", 
             "skybet.com", 
             "skyking.com.tw", 

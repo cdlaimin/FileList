@@ -726,9 +726,7 @@ alibaba.com
 alibabacapital.com
 alibabacorp.com
 alibabafuturehotel.com
-alibabagroup.com
 alibabaplanet.com
-alibabaued.com
 alibabausercontent.com
 alibole.com
 aliexpress.com
@@ -2398,6 +2396,7 @@ hzrc.com
 hzshw.com
 hzz.cool
 i-jjj.com
+i0.sinaimg.cn
 i0456.com
 i21st.cn
 i360mall.com
@@ -2704,6 +2703,7 @@ joyowo.com
 jpush.cn
 jpush.io
 jpushoa.com
+jr.sina.cn
 jr18.com
 jrj.com
 jrzj.com
@@ -3262,6 +3262,7 @@ mzrcw.com
 mzres.com
 mzsky.cc
 mzyfz.com
+n.sinaimg.cn
 n0q.cn
 nahuo.com
 naliwan.com
@@ -3709,7 +3710,9 @@ runoob.com
 s.img.mix.sina.com.cn
 s0593.com
 s0n.cn
+s11.cnzz.com
 s163.com
+s19.cnzz.com
 saayaa.com
 saifutong.com
 saige.com
@@ -4129,6 +4132,7 @@ teakki.com
 teambition
 teambition.com
 teauo.com
+tech.sina.com.cn
 techan.com
 techanzhan.com
 tencent.cn
@@ -4233,6 +4237,7 @@ toutiaopage.com
 touzhijia.com
 tower.im
 toybaba.com
+tp3.sinaimg.cn
 tqedu.com
 tqedu.net
 tqmba.com
@@ -4279,6 +4284,10 @@ tuoliji.net
 turenlong.com
 tuyoo.com
 tv189.com
+tva1.sinaimg.cn
+tva2.sinaimg.cn
+tvax1.sinaimg.cn
+tvax4.sinaimg.cn
 tvhuan.com
 tvscn.com
 twwtn.com
@@ -4407,7 +4416,6 @@ wabuw.com
 waiwaitu.com
 wallstreetcn.com
 wan.com
-wancai.com
 wandoujia.com
 wanfangdata.com.cn
 wangdaizhinan.com
@@ -4561,6 +4569,7 @@ www.itfanr.cc
 www.kafan.cn
 www.sina.com
 |https://www.sina.com.cn
+www.sinaimg.cn
 |https://www.weibo.com
 |https://www.youku.com
 |https://www.zhihu.com
