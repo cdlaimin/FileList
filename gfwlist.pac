@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2020-10-28 20:41:11 GMT+8
+ * GFWList Last-Modified: 2020-10-30 13:51:41 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -5361,6 +5361,7 @@ var rules = [
             "yangjianli.com", 
             "yasni.co.uk", 
             "yayabay.com", 
+            "ycombinator.com", 
             "ydy.com", 
             "yeahteentube.com", 
             "yecl.net", 
