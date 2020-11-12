@@ -765,7 +765,6 @@ amapauto.com
 amazon.cn
 amemv.com
 ampcn.com
-andedu.net
 anfan.com
 anfensi.com
 angeeks.com
@@ -2234,7 +2233,6 @@ hnemap.com
 hnfz.net
 hngbjy.com
 hngjj.net
-hnhjw.com
 hnjkw.net
 hnloushi.com
 hnlzw.net
@@ -3545,7 +3543,6 @@ qhldzb.com
 qhlly.com
 qhnews.com
 qhswdx.com
-qhzk.com
 qi-che.com
 qianhuaweb.com
 qianjia.com
