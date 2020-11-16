@@ -19,11 +19,11 @@ env/bin/genpac \
 	--pac-proxy "SOCKS5 127.0.0.1:1080" \
 	--gfwlist-url - \
 	--gfwlist-local gfwlist-by-loukky/gfwlist.txt \
-	-o gfwlist.pac
-sed -e '5d' -e '3d' -i gfwlist.pac
+	-o PACList.pac
+sed -e '5d' -e '3d' -i PACList.pac
 deactivate
 cd v2ray-rules-dat
-#rm -f geoip.dat geosite.dat geoip.dat.1 geosite.dat.1
+
 rm -rf geo*
 wget https://cdn.jsdelivr.net/gh/cdlaimin/v2ray-rules-dat@release/geoip.dat
 wget https://cdn.jsdelivr.net/gh/cdlaimin/v2ray-rules-dat@release/geosite.dat
