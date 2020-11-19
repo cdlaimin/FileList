@@ -54,7 +54,6 @@ qq.com
 07073sy.com
 0712fang.com
 0715rc.com
-0730news.com
 0731fdc.com
 0731job.com
 0734zpw.com
@@ -2230,7 +2229,6 @@ hnemap.com
 hnfz.net
 hngbjy.com
 hngjj.net
-hnjkw.net
 hnloushi.com
 hnlzw.net
 hnnw.net
@@ -2920,7 +2918,6 @@ liangjing.org
 liangxinyao.com
 lianjia.com
 liansuo.com
-liansuopinpai.com
 liantu.com
 lianwifi.com
 lianxinapp.com
@@ -3722,7 +3719,6 @@ scxttj.com
 scxyes.com
 sdbao.com
 sdbeta.com
-sdcheshi.com
 sddjw.com
 sdedu.net
 sdfdc.com
@@ -3908,7 +3904,6 @@ sojump.com
 soku.com
 solidot.org
 somenmian.com
-sooshong.com
 sootoo.com
 sooxue.com
 sosoo.net
