@@ -1305,7 +1305,6 @@ cnipai.com
 cnjob.com
 cnjyw.net
 cnjzjj.com
-cnkang.com
 cnki.net
 cnkoi.net
 cnlaw.net
@@ -2091,7 +2090,6 @@ hao315.cc
 hao315.com
 hao315.tv
 haochimei.com
-haodai.com
 haodou.com
 haofz.com
 haogongzhang.com
@@ -2906,7 +2904,6 @@ liaoing.com
 liaotuo.org
 liaozhai.tv
 libaclub.com
-lie-che.com
 liebao.cn
 liebiao.com
 liecheng.com
@@ -2916,7 +2913,6 @@ lietou-static.com
 lietou.com
 lieyou.com
 lifeyoyo.com
-lightget.com
 lightingchina.com
 lihaisheng.com
 likefont.com
@@ -3414,7 +3410,6 @@ piao.com
 piaodown.com
 picself.cn
 pinduoduo.com
-pinganfang.com
 pingnan.net
 pingplusplus.com
 pingwest.com
@@ -4114,7 +4109,6 @@ tianyancha.com
 tianyaui.com
 tiaohao.com
 tibetcn.com
-tibetcul.com
 tibetculture.net
 tide.fm
 tieba.com
@@ -4210,7 +4204,6 @@ ttys5.com
 ttzcw.com
 tu676.com
 tuan800.com
-tuan800.net
 tuanimg.com
 tuchw.com
 tudinet.com
@@ -4504,7 +4497,6 @@ www.fashion-tele.com
 www.haofangame.com
 |https://www.ip138.com
 |https://www.iqiyi.com
-www.itfanr.cc
 www.kafan.cn
 www.sina.com
 |https://www.sina.com.cn
@@ -5034,7 +5026,6 @@ zhulong.com
 zhuokearts.com
 zhuoku.com
 zhuqike.com
-zhuwang.cc
 zhuzhai.com
 zhuzhouwang.com
 zhxjyw.com
@@ -5079,7 +5070,6 @@ zoopda.com
 zoosnet.net
 zoossoft.com
 zoossoft.net
-zp0737.com
 zp365.com
 zp666.com
 zpb365.com
