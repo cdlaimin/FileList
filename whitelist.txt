@@ -3907,7 +3907,6 @@ static.sensorsdata.cn
 staticadm.leju.sina.com.cn
 staticfile.org
 stcn.com
-stedu.net
 steelphone.com
 stg8.com
 stockstar.com
