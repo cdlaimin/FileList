@@ -1,3 +1,3 @@
-最后一次更新时间 2020-12-10 05:30:22
+最后一次更新时间 2020-12-11 05:30:23
 https://raw.githubusercontent.com/cdlaimin/PACList/master/PACList.pac
 
