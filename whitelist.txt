@@ -36,7 +36,6 @@ qq.com
 0438.tv
 0513.net
 0515car.net
-0543hr.com
 0550.com
 0552jie.com
 0559fc.com
@@ -958,7 +957,6 @@ blizzard.cn
 blizzardgames.cn
 blqy.com
 blsy.net
-blueidea.com
 blyol.com
 blyun.com
 bmlink.com
@@ -3172,7 +3170,6 @@ my-card.in
 my0538.com
 my0832.com
 my399.com
-my3w.com
 myapp.com
 mycar168.com
 mycimt.com
@@ -3516,7 +3513,6 @@ qikan.com
 qilibali.com
 qinbei.com
 qingcloud.com
-qingdaomedia.com
 qingdaonews.com
 qingdaozaixian.com
 qinglanart.com
@@ -4528,7 +4524,6 @@ xialv.com
 xiami.com
 xiami.fm
 xiami.net
-xian-tourism.com
 xiancn.com
 xiangauto.com
 xiangcunyou.com
