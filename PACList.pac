@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2020-11-21 11:32:50 GMT+8
+ * GFWList Last-Modified: 2020-12-24 22:42:20 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
