@@ -1321,7 +1321,6 @@ cnsimin.com
 cnsphoto.com
 cnstock.com
 cnsuning.com
-cntc.com
 cntexjob.com
 cnthinkers.com
 cntrades.com
@@ -1959,7 +1958,6 @@ golaravel.com
 goldenholiday.com
 goldin168.com
 gongchang.com
-gongjiao.com
 gongjiaomi.com
 gongkong.com
 gongyi.xin
