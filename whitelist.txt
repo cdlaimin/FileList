@@ -1006,7 +1006,6 @@ bytecdn.cn
 bytedance.com
 bytedance.net
 bzshw.com
-c-c.com
 c-ctrip.com
 c-t.work
 c360dn.com
@@ -1839,7 +1838,6 @@ flyme.cn
 flyxg.com
 fm.p0y.cn
 fnkq.com
-fnrcw.com
 fobshanghai.com
 fontstar.com.cn
 foods1.com
@@ -2272,7 +2270,6 @@ huamengxiaoshuo.com
 huami.com
 huamu.com
 huanghepiao.com
-huangye88.com
 huanmusic.com
 huanqiu.com
 huapinwang.com
@@ -2692,7 +2689,6 @@ jxcua.com
 jxdiguo.com
 jxdyf.com
 jxedt.com
-jxfgts.com
 jxga.com
 jxgdw.com
 jxgsgl.com
