@@ -14,9 +14,6 @@
 /210\.34\.4\.28/
 
 ! 以下为所有网友自行提交的网址
-baidu.com
-cip.cc
-qq.com
 0-6.com
 0033.com
 005.tv
@@ -1222,6 +1219,7 @@ cibntv.net
 cidu.net
 ciftis.org
 ciku5.com
+cip.cc
 citic.com
 citsnj.com
 city8.com
@@ -1701,7 +1699,6 @@ emlog.net
 emoi-cncdn.bing.com
 en51.com
 enetedu.com
-enguo.com
 enkj.com
 enshijob.com
 eoeandroid.com
@@ -2027,7 +2024,6 @@ gxrc.com
 gxylnews.com
 gy365.com
 gyxuan.com
-gz-travel.net
 gz91.com
 gzedu.com
 gzjuncheng.com
@@ -2412,9 +2408,6 @@ intelrealsense.cn
 interest.mix.sina.com.cn
 inuobi.com
 iouter.com
-||ip111.cn
-|https://ip138.com
-||ip138.com
 ip1840.com
 ipaiban.com
 ipanda.cn
@@ -4138,7 +4131,6 @@ tqmpacc.com
 tradechina.com
 tranbbs.com
 transkip.com
-|https://translate.google.cn
 transrush.com
 travelex.com.cn
 travelsky.com
@@ -4251,7 +4243,6 @@ uycar.com
 uycnr.com
 uyunad.com
 uzzf.com
-|https://v.qq.com
 v007.net
 v2.reachmax.cn
 vamaker.com
@@ -4371,7 +4362,6 @@ whccb.com
 whhouse.com
 whicu.com
 whir.net
-|https://whitedomain.zwc365.com
 whjm.com
 whjzw.net
 wht.im
@@ -4441,22 +4431,13 @@ wuqing.cc
 wusa5.com
 wutongzi.com
 wuxirc.com
-|https://www.52pojie.cn
 www.baidu.com
 www.bilibili.com
-|https://www.cnbeta.com
-|https://www.douyu.com
 www.fashion-tele.com
 www.haofangame.com
-|https://www.ip138.com
-|https://www.iqiyi.com
 www.kafan.cn
 www.sina.com
-|https://www.sina.com.cn
 www.sinaimg.cn
-|https://www.weibo.com
-|https://www.youku.com
-|https://www.zhihu.com
 wxb.com
 wxhouse.com
 wxmama.com
