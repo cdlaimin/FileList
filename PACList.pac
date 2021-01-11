@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2020-12-24 22:42:20 GMT+8
+ * GFWList Last-Modified: 2021-1-10 13:10:08 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -707,6 +707,7 @@ var rules = [
             "bx.tl", 
             "bynet.co.il", 
             "c-est-simple.com", 
+            "c-span.org", 
             "c-spanvideo.org", 
             "c100tibet.org", 
             "c2cx.com", 
@@ -2308,6 +2309,7 @@ var rules = [
             "hkbc.net", 
             "hkbf.org", 
             "hkbookcity.com", 
+            "hkchronicles.com", 
             "hkchurch.org", 
             "hkci.org.hk", 
             "hkcmi.edu", 
@@ -3553,6 +3555,7 @@ var rules = [
             "paperb.us", 
             "paradisehill.cc", 
             "paradisepoker.com", 
+            "parler.com", 
             "partycasino.com", 
             "partypoker.com", 
             "passion.com", 
