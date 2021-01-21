@@ -102,7 +102,6 @@
 11315.com
 114chn.com
 114fcx.com
-114huoche.com
 114ic.com
 114jcw.com
 114la.com
@@ -1243,7 +1242,6 @@ cn539.com
 cnad.com
 cnadtop.com
 cnair.com
-cnanzhi.com
 cnbeta.com
 cnbetacdn.com
 cnblogs.com
@@ -1265,7 +1263,6 @@ cngaosu.com
 cngba.com
 cngold.org
 cnhaio.com
-cnhangyun.com
 cnhmsq.com
 cnhnb.com
 cnipai.com
@@ -1751,7 +1748,6 @@ fapiao.com
 fashiontrenddigest.com
 fastapi.net
 favolist.com
-fblife.com
 fcbox.com
 fcgsnews.com
 fcjob88.com
@@ -1780,7 +1776,6 @@ fenlei265.com
 fenleidao.com
 fenqile.com
 fenyucn.com
-fhlczy.com
 fhlyou.com
 fimmu.com
 financeun.com
@@ -2020,7 +2015,6 @@ hainanfz.com
 hainanpc.net
 haining.com
 haitou.cc
-hancheng.com
 handu.com
 hangge.com
 hanmaker.com
@@ -2600,7 +2594,6 @@ js0573.com
 js118114.com
 js119.com
 js811.com
-jsenews.com
 jsfxh.org
 jsgc168.com
 jsgh.org
@@ -2617,7 +2610,6 @@ jsurvey.cn
 jsyks.com
 jsymyjs.com
 jsypj.com
-jszjsx.com
 jt122.com
 jtbole.com
 jtimg.com
@@ -3218,7 +3210,6 @@ nxfang.com
 nxnews.net
 nxnresearch.com
 nz86.com
-nzjsw.com
 nzsiteres.com
 nzw-china.com
 o571.com
@@ -3368,7 +3359,6 @@ psahz.com
 psbc.com
 pscjy.com
 psnine.com
-pstatp.com
 pt791.com
 ptdao.com
 pthl.net
@@ -3905,7 +3895,6 @@ szfcol.com
 szffmr.com
 szfw.org
 szhfdq.com
-szhome.com
 szhomeimg.com
 szhua.com
 szhufu.com
@@ -4529,7 +4518,6 @@ xueda.com
 xueersi.com
 xuekewang.com
 xueqiu.com
-xuexi111.com
 xuexiaodaquan.com
 xuexiaozhaopin.com
 xuexigang.com
