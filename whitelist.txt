@@ -1524,7 +1524,6 @@ dm0571.com
 dmall.com
 dmallcdn.com
 dmp.sina.cn
-dmzj.com
 dn1234.com
 dnsapi.cn
 dnspod
@@ -1746,7 +1745,6 @@ fanqier.com
 fanxiaojian.com
 fapiao.com
 fashiontrenddigest.com
-fastapi.net
 favolist.com
 fcbox.com
 fcgsnews.com
