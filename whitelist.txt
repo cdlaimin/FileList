@@ -763,7 +763,6 @@ appchina.com
 appforebay.cn
 appgame.com
 appsimg.com
-appuploader.net
 appvipshop.com
 aptchina.com
 apusic.com
@@ -1161,7 +1160,6 @@ chinatat.com
 chinathinksbig.org
 chinatruck.org
 chinauma.com
-chinauma.net
 chinaunicom.com
 chinaunicom.com.cn
 chinaunicom.com.hk
@@ -3741,7 +3739,6 @@ skycn.com
 skysea.com
 skyworth.com
 sljob88.com
-sljy.com
 slog.sina.cn
 slog.sina.com.cn
 sm.cn
@@ -4398,7 +4395,6 @@ xcmg.com
 xd.com
 xdowns.com
 xesimg.com
-xf9168.com
 xffcol.com
 xfzc.com
 xgzrc.com
@@ -4707,7 +4703,6 @@ yuanlin365.com
 yuanrunkeji.com
 yuansouti.com
 yuantiku.com
-yuecheng.com
 yuejianglou.com
 yuemei.com
 yuewen
