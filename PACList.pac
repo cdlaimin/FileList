@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-1-10 13:10:08 GMT+8
+ * GFWList Last-Modified: 2021-01-31 21:29:14 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -949,6 +949,7 @@ var rules = [
             "cloakpoint.com", 
             "cloudcone.com", 
             "cloudfront.net", 
+            "cloudfunctions.net", 
             "club1069.com", 
             "clyp.it", 
             "cmcn.org", 
@@ -3918,6 +3919,7 @@ var rules = [
             "ritter.vg", 
             "rixcloud.com", 
             "rixcloud.us", 
+            "rlcdn.com", 
             "rlwlw.com", 
             "rmjdw.com", 
             "rmjdw132.info", 
@@ -4989,6 +4991,7 @@ var rules = [
             "vietdaikynguyen.com", 
             "vijayatemple.org", 
             "vimeo.com", 
+            "vimeocdn.com", 
             "vimperator.org", 
             "vincnd.com", 
             "vine.co", 
