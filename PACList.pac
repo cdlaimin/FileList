@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-01-31 21:29:14 GMT+8
+ * GFWList Last-Modified: 2021-02-01 18:20:52 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -553,6 +553,7 @@ var rules = [
             "biblesforamerica.org", 
             "bibox.com", 
             "bic2011.org", 
+            "bidswitch.net", 
             "big.one", 
             "bigfools.com", 
             "biggo.com.tw", 
