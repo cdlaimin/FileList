@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-02-01 18:20:52 GMT+8
+ * GFWList Last-Modified: 2021-02-04 15:22:44 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -3960,6 +3960,7 @@ var rules = [
             "s-cute.com", 
             "s-dragon.org", 
             "s-nbcnews.com", 
+            "s-onetag.com", 
             "s1heng.com", 
             "s1s1s1.com", 
             "s4miniarchive.com", 
