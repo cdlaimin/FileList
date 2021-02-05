@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-02-04 15:22:44 GMT+8
+ * GFWList Last-Modified: 2021-02-05 13:33:38 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -1660,6 +1660,7 @@ var rules = [
             "freedl.org", 
             "freedomchina.info", 
             "freedomcollection.org", 
+            "freedomhongkong.org", 
             "freedomhouse.org", 
             "freedomsherald.org", 
             "freeforums.org", 
@@ -2339,6 +2340,7 @@ var rules = [
             "hkjp.org", 
             "hklft.com", 
             "hklts.org.hk", 
+            "hkmap.live", 
             "hkpeanut.com", 
             "hkptu.org", 
             "hkreporter.com", 
