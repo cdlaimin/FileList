@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-02-05 13:33:38 GMT+8
+ * GFWList Last-Modified: 2021-02-06 16:50:14 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -949,6 +949,7 @@ var rules = [
             "clips4sale.com", 
             "cloakpoint.com", 
             "cloudcone.com", 
+            "cloudflare.com", 
             "cloudfront.net", 
             "cloudfunctions.net", 
             "club1069.com", 
