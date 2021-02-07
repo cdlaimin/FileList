@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-02-06 16:50:14 GMT+8
+ * GFWList Last-Modified: 2021-02-07 18:26:50 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -903,6 +903,7 @@ var rules = [
             "chrlawyers.hk", 
             "chrome.com", 
             "chromecast.com", 
+            "chromeenterprise.google", 
             "chromeexperiments.com", 
             "chromercise.com", 
             "chromestatus.com", 
@@ -4219,6 +4220,7 @@ var rules = [
             "songjianjun.com", 
             "sonicbbs.cc", 
             "sonidodelaesperanza.org", 
+            "sony.com", 
             "sopcast.com", 
             "sopcast.org", 
             "sorazone.net", 
