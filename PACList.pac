@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-02-10 23:03:58 GMT+8
+ * GFWList Last-Modified: 2021-02-18 21:21:11 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -2695,6 +2695,7 @@ var rules = [
             "joachims.org", 
             "jobso.tv", 
             "joinbbs.net", 
+            "joinclubhouse.com", 
             "joinmastodon.org", 
             "journalchretien.net", 
             "journalofdemocracy.org", 
@@ -3965,7 +3966,6 @@ var rules = [
             "s-cute.com", 
             "s-dragon.org", 
             "s-nbcnews.com", 
-            "s-onetag.com", 
             "s1heng.com", 
             "s1s1s1.com", 
             "s4miniarchive.com", 
