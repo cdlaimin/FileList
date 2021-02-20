@@ -866,7 +866,6 @@ bdinfo.net
 bdstatic.com
 bdtjrcv.com
 beacon.sina.com.cn
-beibaotu.com
 beifang.net
 beihai365.com
 beijingrc.com
@@ -3542,7 +3541,6 @@ sao.cn
 saolife.com
 sapi.sina.cn
 saraba1st.com
-sasa123.com
 sax.sina.cn
 sax.sina.com.cn
 saxn.sina.com.cn
@@ -3876,7 +3874,6 @@ szsnews.com
 sztjyy.com
 szyc.com
 t.cn
-t.tt
 t0001.com
 t262.com
 tabanjia.net
