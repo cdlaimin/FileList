@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-02-21 18:27:55 GMT+8
+ * GFWList Last-Modified: 2021-02-22 20:12:00 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -3889,6 +3889,7 @@ var rules = [
             "redditlist.com", 
             "redditmedia.com", 
             "redditstatic.com", 
+            "redhat.com", 
             "redhotlabs.com", 
             "redtube.com", 
             "referer.us", 

@@ -136,7 +136,6 @@
 139shop.com
 148-law.com
 1518.com
-156580.com
 15hr.com
 1616.net
 1626.com
@@ -1227,7 +1226,6 @@ cn357.com
 cn5135.com
 cn539.com
 cnad.com
-cnadtop.com
 cnair.com
 cnbeta.com
 cnbetacdn.com
@@ -1432,7 +1430,6 @@ darryring.com
 das-rpt-log.ucloud.cn
 data.vod.itc.cn
 dataoke.com
-davinfo.com
 dayoo.com
 dayu.com
 dazhe5.com
@@ -2688,7 +2685,6 @@ koudaitong.com
 kq81.com
 kqs114.com
 krspace.cn
-ks-cdn.com
 ksapisrv.com
 ksyun.com
 ktvcity.com
