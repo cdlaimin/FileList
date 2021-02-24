@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-02-23 20:54:16 GMT+8
+ * GFWList Last-Modified: 2021-02-24 20:54:08 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -4732,6 +4732,7 @@ var rules = [
             "tunein.com", 
             "tunnelbear.com", 
             "tunnelr.com", 
+            "tunsafe.com", 
             "tuo8.blue", 
             "tuo8.cc", 
             "tuo8.club", 
