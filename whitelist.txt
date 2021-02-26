@@ -307,7 +307,6 @@
 3dmgame.com
 3msale.com
 3qhouse.com
-3see.com
 3sjob.net
 3snews.net
 3type.cn
@@ -809,7 +808,6 @@ baidu.com.cn
 baidubce.com
 baiducontent.com
 baidufe.com
-baidupan.com
 baidupcs.com
 baidustatic.com
 baifae.com
