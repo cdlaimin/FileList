@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-03-11 23:11:21 GMT+8
+ * GFWList Last-Modified: 2021-03-17 00:16:17 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -139,6 +139,7 @@ var rules = [
             "2000fun.com", 
             "2008xianzhang.info", 
             "2017.hk", 
+            "2047.name", 
             "2049bbs.xyz", 
             "21andy.com", 
             "21join.com", 
@@ -150,6 +151,7 @@ var rules = [
             "24hrs.ca", 
             "24smile.org", 
             "25u.com", 
+            "2du5.com", 
             "2lipstube.com", 
             "2shared.com", 
             "2waky.com", 
@@ -1812,6 +1814,7 @@ var rules = [
             "geekheart.info", 
             "gekikame.com", 
             "gelbooru.com", 
+            "generated.photos", 
             "genius.com", 
             "geocities.co.jp", 
             "geocities.com", 
@@ -4040,6 +4043,7 @@ var rules = [
             "secretchina.com", 
             "secretgarden.no", 
             "secretsline.biz", 
+            "secureservercdn.net", 
             "securetunnel.com", 
             "securityinabox.org", 
             "securitykiss.com", 
