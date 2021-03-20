@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-03-17 00:16:17 GMT+8
+ * GFWList Last-Modified: 2021-03-17 21:41:47  GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -392,6 +392,7 @@ var rules = [
             "appledaily.com.tw", 
             "appshopper.com", 
             "appsocks.net", 
+            "appspot-preview.com", 
             "appspot.com", 
             "appsto.re", 
             "aptoide.com", 
@@ -5359,6 +5360,7 @@ var rules = [
             "xn--ngstr-lra8j.com", 
             "xn--oiq.cc", 
             "xn--p8j9a0d9c9a.xn--q9jyb4c", 
+            "xnxx-cdn.com", 
             "xnxx.com", 
             "xpdo.net", 
             "xpud.org", 
