@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-03-17 21:41:47  GMT+8
+ * GFWList Last-Modified: 2021-03-21 22:33:27  GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -5155,6 +5155,7 @@ var rules = [
             "webjb.org", 
             "weblagu.com", 
             "webmproject.org", 
+            "webpass.net", 
             "webrtc.org", 
             "webrush.net", 
             "webs-tv.net", 
