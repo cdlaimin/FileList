@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-03-21 22:33:27  GMT+8
+ * GFWList Last-Modified: 2021-03-27 16:54:38  GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -4474,6 +4474,7 @@ var rules = [
             "tdm.com.mo", 
             "teachparentstech.org", 
             "teamamericany.com", 
+            "technews.tw", 
             "techviz.net", 
             "teck.in", 
             "teddysun.com", 
