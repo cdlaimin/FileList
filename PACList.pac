@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-03-31 18:23:32 GMT+8
+ * GFWList Last-Modified: 2021-04-04 02:05:04 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -804,6 +804,7 @@ var rules = [
             "cdpwu.org", 
             "cdw.com", 
             "cecc.gov", 
+            "celestiallight.org", 
             "cellulo.info", 
             "cenews.eu", 
             "centauro.com.br", 
