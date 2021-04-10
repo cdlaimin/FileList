@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-04-07 18:59:10 GMT+8
+ * GFWList Last-Modified: 2021-04-10 20:28:26 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -1368,6 +1368,7 @@ var rules = [
             "efcc.org.hk", 
             "effers.com", 
             "efksoft.com", 
+            "efreenews.com", 
             "efukt.com", 
             "eic-av.com", 
             "eireinikotaerukai.com", 
@@ -3176,6 +3177,7 @@ var rules = [
             "mog.com", 
             "mohu.club", 
             "mohu.ml", 
+            "mohu.rocks", 
             "mojim.com", 
             "molihua.org", 
             "monar.ch", 
