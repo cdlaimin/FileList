@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-04-10 20:28:26 GMT+8
+ * GFWList Last-Modified: 2021-04-11 19:26:31 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -4991,6 +4991,7 @@ var rules = [
             "uyghurstudies.org", 
             "uygur.org", 
             "uymaarip.com", 
+            "v2ex.com", 
             "v2fly.org", 
             "v2mm.tech", 
             "v2ray.com", 
