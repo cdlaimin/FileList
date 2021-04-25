@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-04-11 19:26:31 GMT+8
+ * GFWList Last-Modified: 2021-04-24 22:30:39 GMT+8
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -2265,6 +2265,7 @@ var rules = [
             "hdsky.me", 
             "hdtvb.net", 
             "hdzog.com", 
+            "he.net", 
             "heartyit.com", 
             "heavy-r.com", 
             "hec.su", 
@@ -4137,6 +4138,7 @@ var rules = [
             "shodanhq.com", 
             "shooshtime.com", 
             "shop2000.com.tw", 
+            "shopee.tw", 
             "shopping.com", 
             "showhaotu.com", 
             "showtime.jp", 
