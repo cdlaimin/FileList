@@ -4,7 +4,7 @@ git reset --hard
 git pull
 
 git submodule update --init
-for i in gfwlist-by-loukky genpac domainlist
+for i in gfwlist genpac domainlist
 do
 	(cd $i;git pull origin master)
 done
@@ -18,7 +18,7 @@ source env/bin/activate
 env/bin/genpac \
 	--pac-proxy "SOCKS5 127.0.0.1:1080" \
 	--gfwlist-url - \
-	--gfwlist-local gfwlist-by-loukky/gfwlist.txt \
+	--gfwlist-local gfwlist/gfwlist.txt \
 	-o PACList.pac
 sed -e '5d' -e '3d' -i PACList.pac
 deactivate
