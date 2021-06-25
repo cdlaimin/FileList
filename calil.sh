@@ -4,10 +4,10 @@ git reset --hard
 git pull
 
 git submodule update --init
-for i in gfwlist genpac domainlist
-do
-	(cd $i;git pull origin master)
-done
+#for i in gfwlist genpac domainlist
+#do
+#	(cd $i;git pull origin master)
+#done
 rm -rf whitelist.txt
 cp domainlist/whitelist.txt whitelist.txt
 rm -rf env
