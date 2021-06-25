@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "aliyun.com", 
             "baidu.com", 
-            "baidu.jp", 
             "chinaso.com", 
             "chinaz.com", 
             "chukuang.gov.tw", 
