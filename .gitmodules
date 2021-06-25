@@ -4,3 +4,6 @@
 [submodule "domainlist"]
 	path = domainlist
 	url = https://github.com/cdlaimin/ChinaDomainList
+[submodule "gfwlist"]
+	path = gfwlist
+	url = https://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@github.com/cdlaimin/gfwlist
