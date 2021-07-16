@@ -33,4 +33,4 @@ echo -e "最后一次更新时间 $(LANG=C date +"%Y-%m-%d %H:%M:%S")\nhttps://r
 " > /root/FileList/README.md
 git add -A
 git commit -m "[$(LANG=C date +"%Y-%m-%d %H:%M:%S")]auto update"
-git push origin master
+git push --set-upstream origin master
