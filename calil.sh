@@ -34,3 +34,15 @@ echo -e "最后一次更新时间 $(LANG=C date +"%Y-%m-%d %H:%M:%S")\nhttps://r
 git add -A
 git commit -m "[$(LANG=C date +"%Y-%m-%d %H:%M:%S")]auto update"
 git push --set-upstream origin master
+# 更新SVN
+#str1=$(git push --set-upstream origin master)
+#str2="Updated to revision"
+#result=$(echo $str1 | grep "${str2}")
+#if [[ "$result" != "" ]];then
+#        mvn clean install -Dmaven.test.skip=true
+#       cd ..
+#        docker build ./apiengine -t kj/apiengine
+
+#else
+#   echo "apiengine not update"
+#fi
