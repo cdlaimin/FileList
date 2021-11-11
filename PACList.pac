@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "grb.gov.tw", 
             "haygo.com", 
-            "hchcc.gov.tw", 
             "hsinchu-cc.gov.tw", 
             "iner.gov.tw", 
             "ip.cn", 
