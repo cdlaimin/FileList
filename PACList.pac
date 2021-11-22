@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "nmmba.gov.tw", 
             "nmvttc.gov.tw", 
-            "northguan-nsa.gov.tw", 
             "npm.gov.tw", 
             "nstm.gov.tw", 
             "ntdmh.gov.tw", 
