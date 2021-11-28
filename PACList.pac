@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "penghu-nsa.gov.tw", 
             "qq.com", 
-            "simplecd.me", 
             "sina.cn", 
             "sina.com.cn", 
             "siraya-nsa.gov.tw", 
