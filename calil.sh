@@ -3,7 +3,7 @@ cd `dirname $0`
 git reset --hard
 git pull
 
-git submodule update --init
+git submodule update --init --recursive
 #for i in gfwlist genpac domainlist
 #do
 #	(cd $i;git pull origin master)
