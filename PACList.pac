@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "chinaz.com",
             "cycab.gov.tw",
-            "dbnsa.gov.tw",
             "df.gov.tw",
             "eastcoast-nsa.gov.tw",
             "erv-nsa.gov.tw",
