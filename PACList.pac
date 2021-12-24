@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "hsinchu-cc.gov.tw",
             "ip.cn",
-            "jike.com",
             "jpush.cn",
             "klsio.gov.tw",
             "kmseh.gov.tw",
