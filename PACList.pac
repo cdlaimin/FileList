@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "jpush.cn",
             "kmseh.gov.tw",
-            "locql.com",
             "lungtanhr.gov.tw",
             "maolin-nsa.gov.tw",
             "matsu-news.gov.tw",
