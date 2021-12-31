@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "nankan.gov.tw",
             "necoast-nsa.gov.tw",
-            "ner.gov.tw",
             "nmmba.gov.tw",
             "nmp.gov.tw",
             "nmvttc.gov.tw",
