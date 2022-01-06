@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "ntsec.gov.tw",
             "nvri.gov.tw",
-            "nyc.gov.tw",
             "penghu-nsa.gov.tw",
             "post.gov.tw",
             "qq.com",
