@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "so.com",
             "soso.com",
-            "stdtime.gov.tw",
             "sunmoonlake.gov.tw",
             "syniumsoftware.com",
             "taitung-house.gov.tw",
