@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "yatsen.gov.tw",
             "youdao.com",
-            "zhongsou.com"
         ],
         [
             "000webhost.com",
