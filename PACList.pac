@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "youdao.com",
         ],
-        [
             "000webhost.com",
             "030buy.com",
             "0rz.tw",
