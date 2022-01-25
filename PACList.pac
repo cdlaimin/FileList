@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "0rz.tw",
             "10.tt",
-            "1000giri.net",
             "100ke.org",
             "10beasts.net",
             "10conditionsoflove.com",
