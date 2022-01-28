@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "10conditionsoflove.com",
             "123rf.com",
-            "12bet.com",
             "12vpn.com",
             "12vpn.net",
             "1337x.to",
