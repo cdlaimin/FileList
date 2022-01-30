@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "12vpn.com",
             "1337x.to",
-            "138.com",
             "141hongkong.com",
             "141jj.com",
             "141tube.com",
