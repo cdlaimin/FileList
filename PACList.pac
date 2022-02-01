@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "141hongkong.com",
             "141tube.com",
-            "1688.com.au",
             "173ng.com",
             "177pic.info",
             "17t17p.com",
