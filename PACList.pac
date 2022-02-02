@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "141tube.com",
             "173ng.com",
-            "177pic.info",
             "17t17p.com",
             "18board.com",
             "18board.info",
