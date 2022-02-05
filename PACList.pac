@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "18board.info",
             "18p2p.com",
-            "18virginsex.com",
             "1949er.org",
             "1984.city",
             "1984bbs.com",
