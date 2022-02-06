@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "18p2p.com",
             "1949er.org",
-            "1984.city",
             "1984bbs.com",
             "1984bbs.org",
             "1991way.com",
