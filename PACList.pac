@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "1984bbs.com",
             "1991way.com",
-            "1998cdp.org",
             "1bao.org",
             "1dumb.com",
             "1e100.net",
