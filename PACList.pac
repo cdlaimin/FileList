@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "1991way.com",
             "1bao.org",
-            "1dumb.com",
             "1e100.net",
             "1eew.com",
             "1mobile.com",
