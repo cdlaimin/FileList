@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "1e100.net",
             "1mobile.com",
-            "1mobile.tw",
             "1pondo.tv",
             "2-hand.info",
             "2000fun.com",
