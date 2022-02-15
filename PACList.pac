@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "2017.hk",
             "2047.name",
-            "21andy.com",
             "21join.com",
             "21pron.com",
             "21sextury.com",
