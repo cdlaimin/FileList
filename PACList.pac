@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "21join.com",
             "21sextury.com",
-            "228.net.tw",
             "233abc.com",
             "24hrs.ca",
             "24smile.org",
