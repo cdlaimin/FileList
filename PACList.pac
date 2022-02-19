@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "233abc.com",
             "24smile.org",
-            "25u.com",
             "2lipstube.com",
             "2shared.com",
             "2waky.com",
