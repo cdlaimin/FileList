@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "24smile.org",
             "2lipstube.com",
-            "2shared.com",
             "2waky.com",
             "3-a.net",
             "30boxes.com",
