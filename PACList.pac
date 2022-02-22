@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "2waky.com",
             "30boxes.com",
-            "315lz.com",
             "32red.com",
             "36rain.com",
             "3a5a.com",
