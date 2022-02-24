@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "32red.com",
             "3a5a.com",
-            "3arabtv.com",
             "3boys2girls.com",
             "3d-game.com",
             "3proxy.ru",
