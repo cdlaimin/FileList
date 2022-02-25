@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "3a5a.com",
             "3boys2girls.com",
-            "3d-game.com",
             "3proxy.ru",
             "3ren.ca",
             "3tui.net",
