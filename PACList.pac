@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "3tui.net",
             "43110.cf",
-            "466453.com",
             "4bluestones.biz",
             "4chan.com",
             "4dq.com",
