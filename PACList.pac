@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "43110.cf",
             "4bluestones.biz",
-            "4chan.com",
             "4dq.com",
             "4everproxy.com",
             "4irc.com",
