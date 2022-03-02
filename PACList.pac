@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "4bluestones.biz",
             "4dq.com",
-            "4everproxy.com",
             "4irc.com",
             "4mydomain.com",
             "4pu.com",
