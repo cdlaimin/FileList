@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "4irc.com",
             "4pu.com",
-            "4rbtv.com",
             "4shared.com",
             "4sqi.net",
             "50webs.com",
