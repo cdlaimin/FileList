@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "50webs.com",
             "51jav.org",
-            "51luoben.com",
             "5278.cc",
             "5299.tv",
             "5aimiku.com",
