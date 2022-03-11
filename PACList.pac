@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "5isotoi5.org",
             "63i.com",
-            "64museum.org",
             "64tianwang.com",
             "64wiki.com",
             "66.ca",
