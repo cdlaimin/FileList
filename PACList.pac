@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "64tianwang.com",
             "66.ca",
-            "666kb.com",
             "6do.news",
             "6park.com",
             "6parkbbs.com",
