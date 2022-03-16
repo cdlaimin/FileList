@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "6parkbbs.com",
             "6parknews.com",
-            "7capture.com",
             "7cow.com",
             "8-d.com",
             "85cc.net",
