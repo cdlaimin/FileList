@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "7cow.com",
             "85cc.net",
-            "85cc.us",
             "85st.com",
             "881903.com",
             "888.com",
