@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "85cc.net",
             "85st.com",
-            "881903.com",
             "888.com",
             "888poker.com",
             "89-64.org",
