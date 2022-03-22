@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "89-64.org",
             "8news.com.tw",
-            "8z1.net",
             "9001700.com",
             "908taiwan.org",
             "91porn.com",
