@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "8news.com.tw",
             "9001700.com",
-            "908taiwan.org",
             "91porn.com",
             "91vps.club",
             "92ccav.com",
