@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "91porn.com",
             "92ccav.com",
-            "991.com",
             "99btgc01.com",
             "99cn.info",
             "9bis.com",
