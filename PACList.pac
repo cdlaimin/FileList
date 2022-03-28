@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "9bis.com",
             "9cache.com",
-            "9gag.com",
             "9news.com.au",
             "a-normal-day.com",
             "aamacau.com",
