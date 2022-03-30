@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "9news.com.au",
             "aamacau.com",
-            "abc.com",
             "abc.net.au",
             "abc.xyz",
             "abchinese.com",
