@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "aamacau.com",
             "abc.net.au",
-            "abc.xyz",
             "abchinese.com",
             "abclite.net",
             "abebooks.com",
