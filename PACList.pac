@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "abebooks.com",
             "aboluowang.com",
-            "about.google",
             "aboutgfw.com",
             "abs.edu",
             "accim.org",
