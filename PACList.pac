@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "aboluowang.com",
             "aboutgfw.com",
-            "abs.edu",
             "accim.org",
             "accountkit.com",
             "aceros-de-hispania.com",
