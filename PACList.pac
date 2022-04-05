@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "aboutgfw.com",
             "accim.org",
-            "accountkit.com",
             "aceros-de-hispania.com",
             "acevpn.com",
             "acg18.me",
