@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "aceros-de-hispania.com",
             "acg18.me",
-            "acgbox.org",
             "acgkj.com",
             "acgnx.se",
             "acmedia365.com",
