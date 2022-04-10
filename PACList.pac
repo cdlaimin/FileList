@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "acmedia365.com",
             "acnw.com.au",
-            "actfortibet.org",
             "actimes.com.au",
             "activpn.com",
             "aculo.us",
