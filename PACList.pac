@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "aculo.us",
             "addictedtocoffee.de",
-            "addyoutube.com",
             "adelaidebbs.com",
             "admob.com",
             "adpl.org.hk",
