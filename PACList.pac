@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "addictedtocoffee.de",
             "adelaidebbs.com",
-            "admob.com",
             "adpl.org.hk",
             "ads-twitter.com",
             "adsense.com",
