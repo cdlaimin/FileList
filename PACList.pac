@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "adpl.org.hk",
             "adsense.com",
-            "adult-sex-games.com",
             "adultfriendfinder.com",
             "adultkeep.net",
             "advanscene.com",
