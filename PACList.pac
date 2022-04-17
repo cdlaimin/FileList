@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "adsense.com",
             "adultfriendfinder.com",
-            "adultkeep.net",
             "advanscene.com",
             "advertfan.com",
             "advertisercommunity.com",
