@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "advanscene.com",
             "advertisercommunity.com",
-            "ae.org",
             "aenhancers.com",
             "aex.com",
             "af.mil",
