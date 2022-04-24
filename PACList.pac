@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "agnesb.fr",
             "agro.hk",
-            "ai-kan.net",
             "ai-wen.net",
             "ai.google",
             "aiph.net",
