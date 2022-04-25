@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "agro.hk",
             "ai-wen.net",
-            "ai.google",
             "aiph.net",
             "airasia.com",
             "airconsole.com",
