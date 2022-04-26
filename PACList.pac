@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "ai-wen.net",
             "aiph.net",
-            "airasia.com",
             "airconsole.com",
             "aircrack-ng.org",
             "airvpn.org",
