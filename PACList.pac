@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "aiweiweiblog.com",
             "akademiye.org",
-            "akamai.net",
             "akamaihd.net",
             "akamaistream.net",
             "akamaized.net",
