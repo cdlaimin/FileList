@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "akademiye.org",
             "akamaihd.net",
-            "akamaistream.net",
             "akamaized.net",
             "akiba-online.com",
             "akiba-web.com",
