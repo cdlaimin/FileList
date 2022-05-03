@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "akamaihd.net",
             "akamaized.net",
-            "akiba-online.com",
             "akiba-web.com",
             "akow.org",
             "al-islam.com",
