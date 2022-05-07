@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "alabout.com",
             "alarab.qa",
-            "alasbarricadas.org",
             "alexlur.org",
             "alforattv.net",
             "alhayat.com",
