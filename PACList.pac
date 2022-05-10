@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "alhayat.com",
             "aliengu.com",
-            "alive.bar",
             "alkasir.com",
             "all4mom.org",
             "allcoin.com",
