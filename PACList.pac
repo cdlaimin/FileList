@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "allcoin.com",
             "alldrawnsex.com",
-            "allervpn.com",
             "allfinegirls.com",
             "allgirlmassage.com",
             "allgirlsallowed.org",
