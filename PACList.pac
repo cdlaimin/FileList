@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "alljackpotscasino.com",
             "allowed.org",
-            "almasdarnews.com",
             "almostmy.com",
             "alphaporno.com",
             "alternate-tools.com",
