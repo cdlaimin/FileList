@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "allowed.org",
             "almostmy.com",
-            "alphaporno.com",
             "alternate-tools.com",
             "alternativeto.net",
             "altrec.com",
