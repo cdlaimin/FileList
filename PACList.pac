@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "alternate-tools.com",
             "altrec.com",
-            "alvinalexander.com",
             "alwaysdata.com",
             "alwaysdata.net",
             "alwaysvpn.com",
