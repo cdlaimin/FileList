@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "altrec.com",
             "alwaysdata.com",
-            "alwaysdata.net",
             "alwaysvpn.com",
             "am730.com.hk",
             "amazon.co.jp",
