@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "amazon.co.jp",
             "amazonaws.com",
-            "ameblo.jp",
             "america.gov",
             "american.edu",
             "americangreencard.com",
