@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "amazonaws.com",
             "america.gov",
-            "american.edu",
             "americangreencard.com",
             "americanunfinished.com",
             "americorps.gov",
