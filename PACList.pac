@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "america.gov",
             "americangreencard.com",
-            "americanunfinished.com",
             "americorps.gov",
             "amiblockedornot.com",
             "amigobbs.net",
