@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "amigobbs.net",
             "amnesty.org",
-            "amnesty.org.hk",
             "amnesty.tw",
             "amnestyusa.org",
             "amnyemachen.org",
