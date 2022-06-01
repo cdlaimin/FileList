@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "amnesty.tw",
             "amnyemachen.org",
-            "amoiist.com",
             "ampproject.org",
             "amtb-taipei.org",
             "anchor.fm",
