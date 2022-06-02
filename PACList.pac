@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "amnyemachen.org",
             "ampproject.org",
-            "amtb-taipei.org",
             "anchor.fm",
             "anchorfree.com",
             "ancsconf.org",
