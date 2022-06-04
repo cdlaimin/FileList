@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "anchor.fm",
             "ancsconf.org",
-            "andfaraway.net",
             "android-x86.org",
             "android.com",
             "androidify.com",
