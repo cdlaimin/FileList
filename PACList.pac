@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "ancsconf.org",
             "android-x86.org",
-            "android.com",
             "androidify.com",
             "androidplus.co",
             "androidtv.com",
