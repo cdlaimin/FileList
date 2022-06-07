@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "androidify.com",
             "androidtv.com",
-            "andygod.com",
             "angela-merkel.de",
             "angelfire.com",
             "angola.org",
