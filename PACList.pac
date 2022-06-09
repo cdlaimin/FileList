@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "angela-merkel.de",
             "angola.org",
-            "angularjs.org",
             "animecrazy.net",
             "aniscartujo.com",
             "annatam.com",
