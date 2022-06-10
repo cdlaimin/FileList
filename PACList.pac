@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "angola.org",
             "animecrazy.net",
-            "aniscartujo.com",
             "annatam.com",
             "anobii.com",
             "anontext.com",
