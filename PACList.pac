@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "annatam.com",
             "anontext.com",
-            "anonymise.us",
             "anonymitynetwork.com",
             "anonymizer.com",
             "anonymouse.org",
