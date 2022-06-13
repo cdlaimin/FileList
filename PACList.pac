@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "anontext.com",
             "anonymitynetwork.com",
-            "anonymizer.com",
             "anonymouse.org",
             "anpopo.com",
             "answering-islam.org",
