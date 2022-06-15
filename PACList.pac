@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-            "anonymouse.org",
             "answering-islam.org",
-            "antd.org",
             "anthonycalzadilla.com",
             "anti1984.com",
             "antichristendom.com",
